@@ -6,4 +6,4 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://static-00.iconduck.com/assets.00/python-icon-2048x2037-lpg0vgkm.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://static-00.iconduck.com/assets.00/python-icon-2048x2037-lpg0vgkm.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40" height="40"/> <img loading="lazy" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="40" height="40"/>
