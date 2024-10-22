@@ -6,4 +6,4 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp)](https://static-00.iconduck.com/assets.00/python-icon-2048x2037-lpg0vgkm.png)" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://static-00.iconduck.com/assets.00/python-icon-2048x2037-lpg0vgkm.png" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
