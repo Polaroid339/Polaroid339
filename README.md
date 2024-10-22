@@ -1,6 +1,4 @@
-### Victor Oliveira Santos
-
-<h2 align="left"></h2>
+<h1 align="left">Victor Oliveira Santos</h1>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
