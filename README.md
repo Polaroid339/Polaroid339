@@ -1,4 +1,4 @@
-<h2 align="left">Victor Oliveira Santos</h2>
+<h3 align="left">Hi there, I'm Victor also know as Polaroid, and I am a Dev Student!</h2>
 
 <div>
 <a href="https://github.com/Polaroid399">
