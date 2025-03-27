@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm Victor also known as Polaroid, and I am a Dev Student!</h2>
 
-<div>
-  <br>
+<div allingn>
+  <br align="center">
   <a href="https://github.com/Polaroid399">
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polaroid339&layout=compact&langs_count=8&theme=nord&title_color=ffea00"/><img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Polaroid339&show_icons=true&theme=nord&icon_color=ffea00&title_color=ffea00"/>
 </div>
