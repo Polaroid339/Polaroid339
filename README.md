@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Victor also known as Polaroid, and I am a Dev Student!</h2>
+<h2 align="left">Hi there, I am Victor also known as Polaroid, and I'm a Dev Student!</h2>
 
 <div align="center">
   <br>
